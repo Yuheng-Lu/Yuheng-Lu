@@ -1,6 +1,6 @@
 # Yuheng Lu's GitHub Profile
 
-I'm Yuheng, a rising senior at NYU College of Arts and Science.
+I'm Yuheng, a senior (a third-year senior 🤔) at NYU College of Arts and Science.
 
 I code and do math.
 
