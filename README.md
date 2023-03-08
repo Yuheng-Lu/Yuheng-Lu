@@ -6,7 +6,8 @@
 👨‍💻 I am a junior student at NYU Courant Institute of Mathematical Science<br>
 🌱 I’m currently learning Hadoop and Abstract Algebra<br>
 💻 All of my projects are available at <a href="https://yuheng-lu.github.io/">yuheng-lu.github.io</a><br>
-📫 How to reach me lyh2002329@gmail.com<br>🤝 My LinkedIn <a href="https://www.linkedin.com/in/yuheng-lu">linkedin.com/in/yuheng-lu</a><br>
+📫 How to reach me  <a href="mailto:lyh2002329@gmail.com">lyh2002329@gmail.com</a><br>
+🤝 My LinkedIn <a href="https://www.linkedin.com/in/yuheng-lu">linkedin.com/in/yuheng-lu</a><br>
 </div>
 
 <h2 align="center">💻 Tech Stack:</h2>
