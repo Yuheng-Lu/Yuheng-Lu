@@ -3,8 +3,7 @@
 <h2 align="center">💫 About Me:</h2>
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=yuheng-lu&icon=0&color=12"><br>
-👨‍💻 I am a junior student at NYU Courant Institute of Mathematical Science<br>
-🌱 I’m currently learning Hadoop and Abstract Algebra<br>
+👨‍💻 I am a BA/MS student at NYU Courant Institute of Mathematical Science<br>
 💻 All of my projects are available at <a href="https://yuheng-lu.github.io/">yuheng-lu.github.io</a><br>
 📫 How to reach me  <a href="mailto:lyh2002329@gmail.com">lyh2002329@gmail.com</a><br>
 🤝 My LinkedIn <a href="https://www.linkedin.com/in/yuheng-lu">linkedin.com/in/yuheng-lu</a><br>
