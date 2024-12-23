@@ -3,8 +3,8 @@
 Hi, I'm Yuheng.
 
 ## 📘 About Me
-- 🎓 **Education**: B.A./M.S. in Math and CS (AI Concentration) at NYU
-- 💻 **Languages**: Java, Python, JavaScript/TypeScript, Scala
+- 🎓: BA-MS in Math and CS at [NYU Courant](https://cims.nyu.edu)
+- 💻: Java, Python, JavaScript/TypeScript, Scala, C
 
 ## 🛠️ Experience Highlights
 - **Tesla**: Software Engineer Intern (Jan 2025 - May 2025)
